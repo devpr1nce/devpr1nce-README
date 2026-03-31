@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+[Luiz Felipe!;Estudante+de+ADS;Desenvolvedor+Full-Stack" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ola,+eu+sou+o+Luiz Melo!;Estudante+de+ADS;Desenvolvedor+Full-Stack" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Sobre Mim
@@ -25,7 +25,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
 
 ## 📊 Minhas Estatísticas
 
+## 📊 Minhas Estatísticas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpr1nce&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devpr1nceB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpr1nce&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens Mais Usadas"/>
 </div>
