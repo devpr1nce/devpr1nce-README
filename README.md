@@ -23,7 +23,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções efici
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+## 📊 Minhas Estatísticas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?devp1nce&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/devpr1nce&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devpr1nce&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpr1nce&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens Mais Usadas"/>
 </div>
